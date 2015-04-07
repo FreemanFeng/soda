@@ -1,7 +1,7 @@
 # soda
 ScenariO Driven Automation
 
-soda is automation testing framework written in Python, it is driven by scenario which is composed of events triggering and handling.
+soda is automation testing framework written in Python.
 
 With webpage as GUI for test cases design and execution, tester who is responsible for running testcase  just need to select customized events to setup scenario for testing.
 
